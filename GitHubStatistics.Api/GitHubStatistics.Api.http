@@ -1,0 +1,6 @@
+@GitHubStatistics.Api_HostAddress = http://localhost:5293
+
+GET {{GitHubStatistics.Api_HostAddress}}/api/statistics/
+Accept: application/json
+
+###
